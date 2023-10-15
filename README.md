@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="400" src="https://www.canva.com/design/DAFxUpqrwZA/view"/>
+<div align="center"> <img src="https://github.com/ItZmEkAtHiR/ItZmEkAtHiR/blob/9209bf35b3e190eda1064a22b8736a2f15592ced/banner.jpg"></div>
 <h1 align="center">Hi 👋, I'm Kathirvel Swamy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTl0amRzMTE2NWFsNjNoaDBzbjI3b2c3YXp4aW51eW5ianA2YXBuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
