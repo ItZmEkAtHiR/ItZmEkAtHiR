@@ -5,6 +5,7 @@
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFxUpqrwZA&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
+<img align="right" alt="coding" width="400" src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTl0amRzMTE2NWFsNjNoaDBzbjI3b2c3YXp4aW51eW5ianA2YXBuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif](https://www.canva.com/design/DAFxUpqrwZA/view)"/>
 <h1 align="center">Hi 👋, I'm Kathirvel Swamy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTl0amRzMTE2NWFsNjNoaDBzbjI3b2c3YXp4aW51eW5ianA2YXBuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
