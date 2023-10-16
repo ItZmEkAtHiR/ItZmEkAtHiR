@@ -18,6 +18,24 @@
 
 - ⚡ Fun fact **Creating React wonders, pixel by pixel, line by line.**
 
+## Experience
+
+<img align="left" width="100" height="100" src="https://github.com/ItZmEkAtHiR/ItZmEkAtHiR/blob/d1147c8eb95e3f717d4b21797e10ca7bf117e915/assets/qburst.jpeg">
+
+**QBurst Technologies** <br/>
+*Senior Engineer* | *Oct-2021 to Present* <br/>
+*Full Time - 2Y* 
+<br/><br/><br/>
+<img align="right" alt="coding" width="400" src="https://github.com/ItZmEkAtHiR/ItZmEkAtHiR/blob/e94c0042fe919ce2f46ee4d342362a0d2b89010e/assets/coder.gif"/>
+<br/>
+<img align="left" width="100" height="100" src="https://github.com/ItZmEkAtHiR/ItZmEkAtHiR/blob/d1147c8eb95e3f717d4b21797e10ca7bf117e915/assets/infosys.jpeg">
+
+**Infosys Ltd**<br/>
+*React Developer* | *Jul-2018 to Aug-2021* <br/>
+*Full Time - 3.2Y*
+
+<br/>
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/itzmekathir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="itzmekathir" height="30" width="40" /></a>
