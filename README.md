@@ -1,5 +1,10 @@
 [![MasterHead](https://github.com/ItZmEkAtHiR/ItZmEkAtHiR/blob/c392c3d4d727cfd42ad322cab75be0581563bd39/banner.png)](https://in.linkedin.com/in/kathirvel-swamy)
-<h1 align="center">Hi 👋, I'm Kathirvel Swamy</h1>
+<h1 align="center">Hi 👋, I'm Kathirvel Swamy
+  <br/>
+<a href="mailto:kathirvel23@outlook.com">
+  <img src="https://github.com/ItZmEkAtHiR/ItZmEkAtHiR/blob/da6b97b48abbdd80050bd96dd4e727a283bfbfb7/assets/email.png" height="40" />
+</a>
+</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTl0amRzMTE2NWFsNjNoaDBzbjI3b2c3YXp4aW51eW5ianA2YXBuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
