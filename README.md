@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/ItZmEkAtHiR/ItZmEkAtHiR/blob/c392c3d4d727cfd42ad322cab75be0581563bd39/banner.png)](https://in.linkedin.com/in/kathirvel-swamy)
+[![MasterHead](https://github.com/ItZmEkAtHiR/ItZmEkAtHiR/blob/aaa8ca2e197ad1491031b672e549a93e3a37de32/assets/banner.png)](https://in.linkedin.com/in/kathirvel-swamy)
 <h1 align="center">Hi 👋, I'm Kathirvel Swamy
   <br/>
 <a href="mailto:kathirvel23@outlook.com">
