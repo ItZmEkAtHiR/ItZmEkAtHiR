@@ -29,7 +29,7 @@
 **Ford** <br/>
 *Senior Software Engineer* | *May-2024 to Present* <br/>
 *Full Time - Chennai* 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 <img align="left" width="100" height="100" src="https://github.com/ItZmEkAtHiR/ItZmEkAtHiR/blob/d1147c8eb95e3f717d4b21797e10ca7bf117e915/assets/qburst.jpeg">
 
 **QBurst Technologies** <br/>
