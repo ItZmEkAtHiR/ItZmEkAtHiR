@@ -34,10 +34,9 @@
 
 **QBurst Technologies** <br/>
 *Senior Engineer* | *Oct-2021 to May-2024* <br/>
-*Full Time - 2.8Y* 
-<br/><br/><br/><br/>
+*Full Time - 2.8Y*
+<br/><br/><img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*WKS5uUEDzK4YdVRq7DOkbw.gif"><br/><br/>
 <img align="left" width="100" height="100" src="https://github.com/ItZmEkAtHiR/ItZmEkAtHiR/blob/d1147c8eb95e3f717d4b21797e10ca7bf117e915/assets/infosys.jpeg">
-
 **Infosys Ltd**<br/>
 *React Developer* | *Jul-2018 to Aug-2021* <br/>
 *Full Time - 3.2Y*
