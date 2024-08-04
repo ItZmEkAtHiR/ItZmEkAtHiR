@@ -26,6 +26,12 @@
 <img align="left" width="100" height="100" src="https://github.com/ItZmEkAtHiR/ItZmEkAtHiR/blob/d1147c8eb95e3f717d4b21797e10ca7bf117e915/assets/qburst.jpeg">
 <img align="right" alt="coding" width="400" src="https://github.com/ItZmEkAtHiR/ItZmEkAtHiR/blob/e94c0042fe919ce2f46ee4d342362a0d2b89010e/assets/coder.gif">
 
+**Ford** <br/>
+*Senior Software Engineer* | *May-2024 to Present* <br/>
+*Full Time - Chennai* 
+<br/><br/><br/><br/>
+<img align="left" width="100" height="100" src="https://logos-world.net/wp-content/uploads/2021/05/Ford-Logo.png">
+
 **QBurst Technologies** <br/>
 *Senior Engineer* | *Oct-2021 to May-2024* <br/>
 *Full Time - 2.8Y* 
