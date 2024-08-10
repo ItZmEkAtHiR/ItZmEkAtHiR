@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kathirvel23@outlook.com**
 
-- ⚡ Fun fact **Creating React wonders, pixel by pixel, line by line.**
+- ⚡ **Creating React wonders, pixel by pixel, line by line.**
 <br/>
 <br/>
 <br/><br/>
