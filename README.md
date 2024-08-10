@@ -6,10 +6,10 @@
   <img src="https://github.com/ItZmEkAtHiR/ItZmEkAtHiR/blob/da6b97b48abbdd80050bd96dd4e727a283bfbfb7/assets/email.png" height="40" />
 </a>
 </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3> <br/>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTl0amRzMTE2NWFsNjNoaDBzbjI3b2c3YXp4aW51eW5ianA2YXBuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<br/><br/>
+<br/>
 
 - 🔭 I’m currently working on [Amplication](https://github.com/amplication/amplication)
 
@@ -21,8 +21,6 @@
 
 - ⚡ **Creating React wonders, pixel by pixel, line by line.**
 <br/>
-<br/>
-<br/><br/>
 
 ## Experience
 <img align="left" width="100" height="100" src="https://logowik.com/content/uploads/images/ford-new1984.logowik.com.webp">
