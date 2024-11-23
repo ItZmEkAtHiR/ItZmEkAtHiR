@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Amplication](https://github.com/amplication/amplication)
 
-- 🌱 I’m currently learning **Next.js, Flutter, GCP**
+- 🌱 I’m currently learning **Next.js, React Native, GCP**
 
 - 💬 Ask me about **React, JavaScript and TypeScript**
 
